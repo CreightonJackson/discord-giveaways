@@ -1,5 +1,5 @@
 # Discord Giveaways
-
+[![Run on Repl.it](https://repl.it/badge/github/Androz2091/discord-giveaways)](https://repl.it/github/Androz2091/discord-giveaways)
 [![downloadsBadge](https://img.shields.io/npm/dt/discord-giveaways?style=for-the-badge)](https://npmjs.com/discord-giveaways)
 [![versionBadge](https://img.shields.io/npm/v/discord-giveaways?style=for-the-badge)](https://npmjs.com/discord-giveaways)
 [![doc](https://img.shields.io/badge/Documentation-Click%20here-blue?style=for-the-badge)](https://discord-giveaways.js.org)
